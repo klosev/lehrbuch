@@ -1,0 +1,16 @@
+1;M;Bier;Chips;Windeln;Kaffee
+2;W;Windeln;Kuchen;Kaffee;Milch
+3;W;Chips;Milch;;
+4;M;Bier;Chips;Kaffee;
+5;M;Bier;Windeln;Kaffee;
+6;M;Bier;Chips;;
+7;M;Bier;;;
+8;W;Bier;Kaffee;Milch;
+9;M;Bier;Chips;Windeln;Kaffee
+10;W;Windeln;Milch;;
+11;M;Bier;Windeln;Chips;
+12;W;Chips;Windeln;Kaffee;
+13;W;Kuchen;Kaffee;Milch;
+14;W;Windeln;Kaffee;Milch;
+15;M;Chips;Kuchen;;
+16;M;Bier;Chips;Windeln;Kaffee
